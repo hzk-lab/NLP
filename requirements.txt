@@ -1,0 +1,7 @@
+torch
+transformers
+sentence-transformers
+bert-score
+spacy
+scikit-learn
+numpy
